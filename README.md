@@ -109,6 +109,9 @@ Both scripts try two strategies in order:
 - The restore script generates a fresh UUID for each variable's `id` field, which is required by Kibana's internal format
 - The backup script normalises variable names to the `${NAME}` format; the restore script strips the wrapper before writing back to localStorage
 
+![Define a variable](images/variables.png)
+![Use a variable](images/user_variables.png)
+
 **License** ⚖️
 
 This software is licensed under the [Apache License, version 2 ("ALv2")](https://github.com/elastic/elasticsearch-labs/blob/main/LICENSE).
