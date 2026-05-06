@@ -1,0 +1,14 @@
+[
+  {
+    "name": "${exampleVariable1}",
+    "value": "_search"
+  },
+  {
+    "name": "${exampleVariable2}",
+    "value": "match_all"
+  } ,
+  {
+    "name": "${test}",
+    "value": "test"
+  }
+]
