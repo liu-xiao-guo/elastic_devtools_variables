@@ -6,7 +6,7 @@
   {
     "name": "${exampleVariable2}",
     "value": "match_all"
-  } ,
+  },
   {
     "name": "${test}",
     "value": "test"
