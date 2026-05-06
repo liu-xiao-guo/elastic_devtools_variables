@@ -77,7 +77,7 @@ After restoring, reload the Kibana DevTools Config page (`/app/dev_tools#/consol
 
 ```json
 [
-  { "name": "${COHERE_API_KEY}", "value": "Arzye9qdR88N4NrCkbv48aCxIUDVhqK611UTPa35" },
+  { "name": "${COHERE_API_KEY}", "value": "<Your Cohere API KEY>" },
   { "name": "${OPENAI_API_KEY}", "value": "sk-..." }
 ]
 ```
